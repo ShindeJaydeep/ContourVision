@@ -16,7 +16,8 @@ ContourVision is a Python-based image processing tool that detects object contou
 
 | Original Image | Canny Edges | Detected Contours |
 | -------------- | ----------- | ----------------- |
-| ![Original](original.jpg) | ![Edges](canny_edges.jpg) | ![Contours](contour_detected.jpg) |
+|                |             |                   |
+|                |             |                   |
 
 ## 📥 Installation
 
